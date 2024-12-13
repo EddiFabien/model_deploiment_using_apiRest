@@ -2144,3 +2144,13 @@ ValueError: Target scores need to be probabilities for multiclass roc_auc, i.e. 
 2024-12-13 18:09:02,371:INFO:Preloading libraries
 2024-12-13 18:09:02,371:INFO:Set up data.
 2024-12-13 18:09:02,379:INFO:Set up index.
+2024-12-13 20:06:30,808:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-13 20:06:30,808:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-13 20:06:30,808:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-13 20:06:30,809:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-13 20:06:33,175:INFO:Initializing load_model()
+2024-12-13 20:06:33,175:INFO:load_model(model_name=optionclass_api, platform=None, authentication=None, verbose=True)

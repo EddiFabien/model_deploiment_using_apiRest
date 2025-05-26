@@ -365,7 +365,7 @@ For production deployment, consider using:
 
 ## 📞 Contact
 
-For questions or support, please contact [Your Name] at [your.email@example.com].
+For questions or support, please contact me at eddifabien@gmail.com.
 
 ---
 
